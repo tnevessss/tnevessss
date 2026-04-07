@@ -1,14 +1,28 @@
-<h1 align="center">Olá 🤗, meu nome é Thales Neves</h1>
-<h3 align="center">Estudante de Ciência da Computação</h3>
+<h1 align="center">Olá 👋, eu sou Thales Neves</h1>
+<h3 align="center">Estudante de Ciência da Computação | Programação Competitiva | Tecnologia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luix-091&label=Profile%20views&color=0e75b6&style=flat" alt="luix-091" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thales-neves-ctt&label=Profile%20views&color=0e75b6&style=flat" alt="thales-neves-ctt" />
+</p>
 
-- 🌱 Estou aprendendo sobre *Desenvolvimento Web, Python, etc.*
+- 🔭 Atualmente desenvolvendo projetos como **Nerdman (jogo em C++)** e **sistemas acadêmicos**
 
-- 📫 Me contate *thales.neves@ufv.br*
+- 🌱 Estudando **algoritmos, estruturas de dados, programação competitiva e AWS**
+
+- 👨‍💻 Meus projetos estão disponíveis em:  
+  https://github.com/thales-neves-ctt
+
+- 📫 Contato: **seuemail@gmail.com** <!-- troca pelo seu email -->
+
+---
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/thales-neves-ctt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz filipe santos oliveira" height="30" width="40" /></a>
-<a href="https://www.instagram.com/t.nevessss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luizfilipe.so" height="30" width="40" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/thales-neves-ctt" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thales neves linkedin" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/t.nevessss/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thales neves instagram" height="30" width="40" />
+</a>
