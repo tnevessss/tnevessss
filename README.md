@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Olá 🤗, meu nome é Luiz Filipe</h1>
+<h3 align="center">Um amante da programação</h3>
 
-<!--
-**tnevessss/tnevessss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luix-091&label=Profile%20views&color=0e75b6&style=flat" alt="luix-091" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 Estou trabalhando nos projetos [UNICADS](https://github.com/Dev-LFSO/UNICADS) e [Django](https://github.com/Dev-LFSO/Django)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou aprendendo sobre *Desenvolvimento Web, Python, etc.*
+
+- 👨‍💻 Todos meus projetos estão aqui (https://github.com/Dev-LFSO?tab=repositories)
+
+- 📫 Me contate *luiz.filipe.ctt@gmail.com*
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/luiz filipe santos oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz filipe santos oliveira" height="30" width="40" /></a>
+<a href="https://instagram.com/luizfilipe.so" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luizfilipe.so" height="30" width="40" /></a>
+</p>
