@@ -5,12 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=thales-neves-ctt&label=Profile%20views&color=0e75b6&style=flat" alt="thales-neves-ctt" />
 </p>
 
-- 🌱 Estudando **algoritmos, estruturas de dados e programação competitiva
+- 🌱 Estudando C++, algoritmos e programação competitiva
 
 - 👨‍💻 Meus projetos estão disponíveis em:  
   https://github.com/thales-neves-ctt
 
-- 📫 Contato: **seuemail@gmail.com** <!-- troca pelo seu email -->
+- 📫 Contato: **thales.neves@ufv.br**
 
 ---
 
