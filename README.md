@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋, eu sou Thales Neves</h1>
-<h3 align="center">Estudante de Ciência da Computação | Programação Competitiva | Tecnologia</h3>
+<h3 align="center">Estudante de Ciência da Computação | Programação Competitiva | Algoritmos</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thales-neves-ctt&label=Profile%20views&color=0e75b6&style=flat" alt="thales-neves-ctt" />
 </p>
 
-- 🔭 Atualmente desenvolvendo projetos como **Nerdman (jogo em C++)** e **sistemas acadêmicos**
-
-- 🌱 Estudando **algoritmos, estruturas de dados, programação competitiva e AWS**
+- 🌱 Estudando **algoritmos, estruturas de dados e programação competitiva
 
 - 👨‍💻 Meus projetos estão disponíveis em:  
   https://github.com/thales-neves-ctt
