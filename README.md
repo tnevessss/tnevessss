@@ -1,15 +1,11 @@
-<h1 align="center">Olá 🤗, meu nome é Luiz Filipe</h1>
-<h3 align="center">Um amante da programação</h3>
+<h1 align="center">Olá 🤗, meu nome é Thales Neves</h1>
+<h3 align="center">Estudante de Ciência da Computação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luix-091&label=Profile%20views&color=0e75b6&style=flat" alt="luix-091" /> </p>
 
-- 🔭 Estou trabalhando nos projetos [UNICADS](https://github.com/Dev-LFSO/UNICADS) e [Django](https://github.com/Dev-LFSO/Django)
-
 - 🌱 Estou aprendendo sobre *Desenvolvimento Web, Python, etc.*
 
-- 👨‍💻 Todos meus projetos estão aqui (https://github.com/Dev-LFSO?tab=repositories)
-
-- 📫 Me contate *luiz.filipe.ctt@gmail.com*
+- 📫 Me contate *thales.neves@ufv.br*
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
